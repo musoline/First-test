@@ -4,4 +4,6 @@
 
 .container{
     width: 1024px;
+    background-color: red;
+    height: 1980px;
 }
